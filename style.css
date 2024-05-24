@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+body{
+    font-family: sans-serif;
+    background-color: skyblue;
+    text-align: center;
+    align-items: center;
+}
+header {
+    font-family: sans-serif;
+    background-color: blue;
+}    
+footer{
+    font-family: sans-serif;
+    height: 50px;
+}
+img{
+    width:150px;
+    opacity: 0.5;
+}
+img:hover{
+    opacity: 1;
+}
+iframe{
+    margin:10px;
+}
+a{
+    border:1px solid white;
+    border-radius: 30px;
+    padding:5px;
+    text-decoration: none;
+    color:white;
+}
+div:hover{
+    color:white;
+}
